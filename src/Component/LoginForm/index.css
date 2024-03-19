@@ -9,6 +9,12 @@
     justify-content: flex-start;
     
 }
+.login-con{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    
+}
 
 .login-left-img{
     position: absolute;
